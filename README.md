@@ -3,7 +3,7 @@
 - 👀 I’m interested in ...Youtube
 - 🌱 I’m currently learning ... ALX Software Engineering course
 - 💞️ I’m looking to collaborate on ... Python
-- 📫 How to reach me ...[ LinkedIn ](www.linkedin.com/in/sayidabdi)
+- 📫 How to reach me ... www.linkedin.com/in/sayidabdi)
 - Pronouns:... He/him
 - Fun fact:.. Curious to learn something new.
 
